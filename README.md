@@ -21,6 +21,10 @@ Once finished, execute with:
     trity
 
 
+### FAQ
+# What if I get ImportError: no module named x
+## Make sure you have Internet and try manually installing it by executing: pip install x (whatever x is)
+
 ### Issues?
 
 If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
