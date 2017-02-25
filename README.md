@@ -32,6 +32,9 @@ Once finished, execute with:
 ##### I am not sure because there is no way for me to test it, but if someone would like to and told me the results I would greatly appreciate it :-)
 ========================
 
+### Donations?
+#### www.paypal.me/toxicnull
+
 ### Issues?
 
 If you have any issues regarding the source code of this framework, as well as any errors you have encountered, please contact me at 
@@ -42,3 +45,4 @@ If you have any issues regarding the source code of this framework, as well as a
     Twitter: @toxicnull
     Kik: toxicnull
     Discord: #9073
+    
