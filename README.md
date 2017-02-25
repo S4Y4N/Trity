@@ -3,7 +3,7 @@ Trity is an advanced pentesting framework dedicated to everything from cryptogra
 
 ## Installation & Usage
 
-In order to install this program, it is crucial that you are on a __Linux-based__ distro, preferably __Kali-Linux__.
+In order to install this program, it is crucial that you are on a __Linux-based__ distro, preferably __Kali-Linux__ or __BackBox__.
 
 First, `git clone`.
 
@@ -24,6 +24,13 @@ Once finished, execute with:
 ### FAQ
 #### What if I get ImportError: no module named x
 ##### Make sure you have Internet and try manually installing it by executing: pip install x (whatever x is)
+========================
+#### Will Trity work on Windows?
+##### No
+========================
+#### Will Trity work on Mac OSX
+##### I am not sure because there is no way for me to test it, but if someone would like to and told me the results I would greatly appreciate it :-)
+
 
 ### Issues?
 
