@@ -22,8 +22,8 @@ Once finished, execute with:
 
 
 ### FAQ
-# What if I get ImportError: no module named x
-## Make sure you have Internet and try manually installing it by executing: pip install x (whatever x is)
+#### What if I get ImportError: no module named x
+#### Make sure you have Internet and try manually installing it by executing: pip install x (whatever x is)
 
 ### Issues?
 
