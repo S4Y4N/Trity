@@ -31,13 +31,9 @@ if option == 1:
     install = os.system("apt-get update && apt-get install -y build-essential git")
     install2 = os.system("cp -R trity/ /opt/ && cp trity.py /opt/trity && cp run.sh /opt/trity && cp run.sh /usr/bin/trity && chmod +x /usr/bin/trity")
     os.system('apt-get install sendemail')
-    os.system('pip install qrcode')
-    os.system('pip install google')
-    os.system('pip install mechanize')
-    os.system('pip install requests')
     os.system('apt-get install lib32ncurses5-dev')
     os.system('apt-get install libncurses5-dev')
-    pip.main(["install", "netifaces", "scapy", "SpoofMAC", "pythonwhois", "readline", "BeautifulSoup"])
+    pip.main(["install", "netifaces", "scapy", "SpoofMAC", "pythonwhois", "readline", "BeautifulSoup", "requests", "mechanize", "google", "qrcode"])
     print "\033[1;32m[!] Finished Installing! Run 'trity' to run program [!]\033[0m"
     sys.exit()
 else:
