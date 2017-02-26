@@ -29,7 +29,7 @@ Once finished, execute with:
 ##### No
 ========================
 #### Will Trity work on Mac OSX
-##### I am not sure because there is no way for me to test it, but if someone would like to and told me the results I would greatly appreciate it :-)
+##### I am not sure because there is no way for me to test it, but if someone would like to and told me the results I would greatly appreciate it :-) Except that you would have to install the modules manually.
 ========================
 
 ### Donations?
